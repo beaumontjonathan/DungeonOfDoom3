@@ -8,6 +8,9 @@ import java.awt.event.WindowEvent;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
+/**
+ * Some javadocs....
+ */
 public class DoDServerGUI extends JFrame {
 
     private static final long serialVersionUID = -5056371061826781622L;
