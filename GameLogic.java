@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * Contains the main logic part of the game, as it processes.
+ * Contains the main logic part of the game, as it processes. And some stuff.
  *
  * @author : The unnamed tutor.
  */
